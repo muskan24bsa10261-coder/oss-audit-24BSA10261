@@ -1,6 +1,6 @@
 # OSS Audit — Git
 ### Open Source Software | Capstone Project
-**Student:** [Your Name] | **Roll Number:** [Your Roll Number]
+**Student:** Muskan Pathak | **Roll Number:** 24BSA10261
 **Chosen Software:** Git (Version Control System) | **License:** GPL v2
 
 ---
