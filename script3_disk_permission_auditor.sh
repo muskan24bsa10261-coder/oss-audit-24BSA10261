@@ -1,7 +1,7 @@
 #!/bin/bash
 # ============================================================
 # Script 3: Disk and Permission Auditor
-# Author: [Your Name] | Roll: [Your Roll Number]
+# Author: Muskan Pathak | Roll: 24BSA10261
 # Course: Open Source Software | OSS Audit — Git
 # Description: Loops through key system directories and reports
 #              their disk usage, owner, and permissions.
