@@ -1,7 +1,7 @@
 #!/bin/bash
 # ============================================================
 # Script 2: FOSS Package Inspector
-# Author: [Your Name] | Roll: [Your Roll Number]
+# Author: Muskan Pathak | Roll: 24BSA10261
 # Course: Open Source Software | OSS Audit — Git
 # Description: Checks if a FOSS package is installed,
 #              displays its details, and prints a philosophy note.
