@@ -1,13 +1,13 @@
 #!/bin/bash
-# ============================================================
+
 # Script 1: System Identity Report
-# Author: [Your Name] | Roll: [Your Roll Number]
+# Author: Muskan Pathak | Roll: 24BSA10261
 # Course: Open Source Software | OSS Audit — Git
 # Description: Displays a welcome screen with key system info
 # ============================================================
 
 # --- Variables ---
-STUDENT_NAME="[Your Name]"         # Replace with your name
+STUDENT_NAME="Muskan Pathak"         # Replace with your name
 SOFTWARE_CHOICE="Git"              # Our chosen open-source software
 
 # --- Gather system information using command substitution ---
