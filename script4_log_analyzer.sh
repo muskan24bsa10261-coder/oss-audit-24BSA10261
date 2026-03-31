@@ -1,7 +1,7 @@
 #!/bin/bash
 # ============================================================
 # Script 4: Log File Analyzer
-# Author: [Your Name] | Roll: [Your Roll Number]
+# Author: Muskan Pathak | Roll: 24BSA10261
 # Course: Open Source Software | OSS Audit — Git
 # Description: Reads a log file line by line, counts keyword
 #              occurrences, and prints matching lines summary.
